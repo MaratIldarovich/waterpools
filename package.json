@@ -1,0 +1,12 @@
+{
+  "name": "waterpools",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "dependencies": {
+    "jest": "^29.2.2"
+  },
+  "license": "Custom license"
+}
